@@ -126,7 +126,7 @@ and open the template in the editor.
                     <div class="col-md-2"></div>
                     <div class="col-md-8">
                          <center style="padding-top: 150px;color:white;font-size: 50px;font-weight: bold;">Unlimited movies, TV <br>shows and more.</center>
-                         <center style="color:white;font-size:26px;">Watch anywhere. Cancel anytim.</center><br>
+                         <center style="color:white;font-size:26px;">Watch anywhere. Cancel anytime.</center><br>
                          <center style="color:white;font-size:18px;">Ready to watch? Enter your email to create or restart your membership.</center><br><br>
                          <div class="col-md-1"></div>
                          <div class="col-md-6" >
